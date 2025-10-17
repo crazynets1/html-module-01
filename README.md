@@ -11,7 +11,7 @@ The web is a vast network connecting billions of devices worldwide. When you typ
 2. The **server** receives the request and sends back the website’s files.  
 3. The **browser** interprets the files (HTML, CSS, JS) and displays the page on your screen.
 
-![How the Web Works](../../assets/how-the-web-works.png)
+![How the Web Works](how-the-web-works.png)
 
 > 💡 **Did You Know?**  
 > The very first website ever created is still online!  
@@ -46,7 +46,7 @@ Example:
 
 Every webpage you see is built using **three key technologies**:
 
-![HTML CSS JS Relationship](../../assets/html-css-js.png)
+![HTML CSS JS Relationship](html-css-js.png)
 
 | Layer | Purpose |
 |-------|----------|
